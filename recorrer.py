@@ -4,5 +4,5 @@ def run():
         print(letter)
 
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     run()
